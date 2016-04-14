@@ -2,30 +2,42 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebdec2e0-2040-4bba-b302-74d9e3e912fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ainur1.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ainur2.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ainur3.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ainur4.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ainur5.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/ainur6.JPG" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/linkIcon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Drugstore-Conditions-in-Georgian-Villages.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Instalment-payments-are-introduced-to-buy-medicines.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/links.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Anti-obesity-Pills.html" afterPath="$PROJECT_DIR$/Anti-obesity-Pills.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Abakeli1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Abakelia2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Abdaladze1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Abdaladze2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Abdaladze3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Abdaladze4.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Abesadze1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Abesadze2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Bregadze1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Bregadze2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Bregadze3.PNG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Gvinadze1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Gvinadze2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Huseynov1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Huseynov2.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Huseynov3.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Huseynov4.1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Mamagulashvili1.gif" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Mamagulashvili2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Mestvirishvili1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Omiadze1.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Omiadze2.JPG" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Tsaava1.jpg" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/Vasadze1.jpg" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Are-prices-increasing-or-decreasing.html" afterPath="$PROJECT_DIR$/Are-prices-increasing-or-decreasing.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Checking- who-is-who.html" afterPath="$PROJECT_DIR$/Checking- who-is-who.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HIV-AIDS.html" afterPath="$PROJECT_DIR$/HIV-AIDS.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Drugstore-Conditions-in-Georgian-Villages.html" afterPath="$PROJECT_DIR$/Drugstore-Conditions-in-Georgian-Villages.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instalment-payments-are-introduced-to-buy-medicines.html" afterPath="$PROJECT_DIR$/Instalment-payments-are-introduced-to-buy-medicines.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Is-prescription-system.html" afterPath="$PROJECT_DIR$/Is-prescription-system.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Is-there-a-future.html" afterPath="$PROJECT_DIR$/Is-there-a-future.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Language-Barriers.html" afterPath="$PROJECT_DIR$/Language-Barriers.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Psychotropic-Drugs-Without.html" afterPath="$PROJECT_DIR$/Psychotropic-Drugs-Without.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stop-C.html" afterPath="$PROJECT_DIR$/Stop-C.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Treatment-for-Kidney-Disease.html" afterPath="$PROJECT_DIR$/Treatment-for-Kidney-Disease.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/What-Happens-to-a-Patient.html" afterPath="$PROJECT_DIR$/What-Happens-to-a-Patient.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autismProblems.html" afterPath="$PROJECT_DIR$/autismProblems.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Medicine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -46,32 +58,99 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/index.html">
+      <file leaf-file-name="HIV-AIDS.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/HIV-AIDS.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-19.25">
-              <caret line="172" column="7" selection-start-line="172" selection-start-column="7" selection-end-line="172" selection-end-column="7" />
+            <state vertical-scroll-proportion="0.625">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/style/style.css">
+      <file leaf-file-name="Instalment-payments-are-introduced-to-buy-medicines.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Instalment-payments-are-introduced-to-buy-medicines.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="70" column="28" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="28" />
+            <state vertical-scroll-proportion="-18.208334">
+              <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="links.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Is-prescription-system.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Is-prescription-system.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-12.583333">
+              <caret line="54" column="17" selection-start-line="49" selection-start-column="7" selection-end-line="54" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#3;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Is-there-a-future.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Is-there-a-future.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.875">
+              <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Language-Barriers.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Language-Barriers.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-9.458333">
+              <caret line="56" column="13" selection-start-line="54" selection-start-column="8" selection-end-line="56" selection-end-column="13" />
+              <folding>
+                <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#3;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="links.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/links.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.23659305">
-              <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+            <state vertical-scroll-proportion="-5.4166665">
+              <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
               <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Psychotropic-Drugs-Without.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Psychotropic-Drugs-Without.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-20.083334">
+              <caret line="66" column="17" selection-start-line="61" selection-start-column="7" selection-end-line="66" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Stop-C.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Stop-C.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.458333">
+              <caret line="84" column="17" selection-start-line="79" selection-start-column="7" selection-end-line="84" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -79,9 +158,24 @@
       <file leaf-file-name="Treatment-for-Kidney-Disease.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Treatment-for-Kidney-Disease.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-11.25">
-              <caret line="20" column="10" selection-start-line="3" selection-start-column="3" selection-end-line="20" selection-end-column="10" />
-              <folding />
+            <state vertical-scroll-proportion="-17.583334">
+              <caret line="50" column="17" selection-start-line="48" selection-start-column="7" selection-end-line="50" selection-end-column="17" />
+              <folding>
+                <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+                <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="What-Happens-to-a-Patient.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/What-Happens-to-a-Patient.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.7785978">
+              <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+              <folding>
+                <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -101,23 +195,23 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/Are-prices-increasing-or-decreasing.html" />
         <option value="$PROJECT_DIR$/Anti-obesity-Pills.html" />
         <option value="$PROJECT_DIR$/autismProblems.html" />
-        <option value="$PROJECT_DIR$/Checking- who-is-who.html" />
         <option value="$PROJECT_DIR$/HIV-AIDS.html" />
+        <option value="$PROJECT_DIR$/Is-there-a-future.html" />
+        <option value="$PROJECT_DIR$/style/style.css" />
+        <option value="$PROJECT_DIR$/links.html" />
+        <option value="$PROJECT_DIR$/Are-prices-increasing-or-decreasing.html" />
+        <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/Checking- who-is-who.html" />
+        <option value="$PROJECT_DIR$/Drugstore-Conditions-in-Georgian-Villages.html" />
         <option value="$PROJECT_DIR$/Instalment-payments-are-introduced-to-buy-medicines.html" />
         <option value="$PROJECT_DIR$/Is-prescription-system.html" />
-        <option value="$PROJECT_DIR$/Is-there-a-future.html" />
         <option value="$PROJECT_DIR$/Language-Barriers.html" />
         <option value="$PROJECT_DIR$/Psychotropic-Drugs-Without.html" />
         <option value="$PROJECT_DIR$/Stop-C.html" />
         <option value="$PROJECT_DIR$/Treatment-for-Kidney-Disease.html" />
         <option value="$PROJECT_DIR$/What-Happens-to-a-Patient.html" />
-        <option value="$PROJECT_DIR$/Drugstore-Conditions-in-Georgian-Villages.html" />
-        <option value="$PROJECT_DIR$/index.html" />
-        <option value="$PROJECT_DIR$/style/style.css" />
-        <option value="$PROJECT_DIR$/links.html" />
       </list>
     </option>
   </component>
@@ -131,7 +225,7 @@
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
-    <option name="height" value="707" />
+    <option name="height" value="712" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -243,6 +337,9 @@
     </configuration>
   </component>
   <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
       <changelist id="ebdec2e0-2040-4bba-b302-74d9e3e912fb" name="Default" comment="" />
@@ -253,12 +350,12 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="707" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="712" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32994923" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2046589" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.20095314" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -278,8 +375,8 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2046589" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="true" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="true" content_ui="tabs" />
@@ -294,6 +391,14 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout-to-restore>
   </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
@@ -302,16 +407,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/images/ainur1.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/images/ainur2.JPG">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/images/ainur3.JPG">
       <provider selected="true" editor-type-id="images">
         <state />
@@ -332,50 +427,109 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Are-prices-increasing-or-decreasing.html">
+    <entry file="file://$PROJECT_DIR$/style/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="70" column="28" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ainur1.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/ainur2.JPG">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Huseynov1.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Huseynov2.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/images/Huseynov3.jpg">
+      <provider selected="true" editor-type-id="images">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Anti-obesity-Pills.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.625">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Anti-obesity-Pills.html">
+    <entry file="file://$PROJECT_DIR$/Are-prices-increasing-or-decreasing.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
+        <state vertical-scroll-proportion="-5.7083335">
+          <caret line="30" column="15" selection-start-line="30" selection-start-column="15" selection-end-line="30" selection-end-column="15" />
+          <folding>
+            <element signature="n#style#0;n#figure#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/autismProblems.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
+        <state vertical-scroll-proportion="-0.625">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.4583335">
+          <caret line="42" column="116" selection-start-line="42" selection-start-column="116" selection-end-line="42" selection-end-column="116" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$APPLICATION_HOME_DIR$/lib/webstorm.jar!/resources/html5-schema/html5/common.rnc">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.33215547">
+          <caret line="126" column="18" selection-start-line="126" selection-start-column="18" selection-end-line="126" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Checking- who-is-who.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state vertical-scroll-proportion="-16.333334">
+          <caret line="61" column="8" selection-start-line="61" selection-start-column="8" selection-end-line="61" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Drugstore-Conditions-in-Georgian-Villages.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.625">
+          <caret line="25" column="23" selection-start-line="25" selection-start-column="23" selection-end-line="25" selection-end-column="23" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/HIV-AIDS.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
+        <state vertical-scroll-proportion="0.625">
           <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Is-prescription-system.html">
+    <entry file="file://$PROJECT_DIR$/Instalment-payments-are-introduced-to-buy-medicines.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
+        <state vertical-scroll-proportion="-18.208334">
+          <caret line="43" column="28" selection-start-line="43" selection-start-column="28" selection-end-line="43" selection-end-column="28" />
           <folding />
         </state>
       </provider>
@@ -388,83 +542,81 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Language-Barriers.html">
+    <entry file="file://$PROJECT_DIR$/Is-prescription-system.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Psychotropic-Drugs-Without.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Stop-C.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/What-Happens-to-a-Patient.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.30726257">
-          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Instalment-payments-are-introduced-to-buy-medicines.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-1.875">
-          <caret line="3" column="26" selection-start-line="3" selection-start-column="26" selection-end-line="3" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Drugstore-Conditions-in-Georgian-Villages.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10614525">
-          <caret line="47" column="1" selection-start-line="47" selection-start-column="1" selection-end-line="47" selection-end-column="1" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Treatment-for-Kidney-Disease.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-11.25">
-          <caret line="20" column="10" selection-start-line="3" selection-start-column="3" selection-end-line="20" selection-end-column="10" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-19.25">
-          <caret line="172" column="7" selection-start-line="172" selection-start-column="7" selection-end-line="172" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="70" column="28" selection-start-line="70" selection-start-column="22" selection-end-line="70" selection-end-column="28" />
-          <folding />
+        <state vertical-scroll-proportion="-12.583333">
+          <caret line="54" column="17" selection-start-line="49" selection-start-column="7" selection-end-line="54" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#3;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/links.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.23659305">
-          <caret line="31" column="33" selection-start-line="31" selection-start-column="33" selection-end-line="31" selection-end-column="33" />
+        <state vertical-scroll-proportion="-5.4166665">
+          <caret line="32" column="8" selection-start-line="32" selection-start-column="8" selection-end-line="32" selection-end-column="8" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Language-Barriers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-9.458333">
+          <caret line="56" column="13" selection-start-line="54" selection-start-column="8" selection-end-line="56" selection-end-column="13" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#3;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Psychotropic-Drugs-Without.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-20.083334">
+          <caret line="66" column="17" selection-start-line="61" selection-start-column="7" selection-end-line="66" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Stop-C.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.458333">
+          <caret line="84" column="17" selection-start-line="79" selection-start-column="7" selection-end-line="84" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#2;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Treatment-for-Kidney-Disease.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-17.583334">
+          <caret line="50" column="17" selection-start-line="48" selection-start-column="7" selection-end-line="50" selection-end-column="17" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+            <element signature="n#style#0;n#figure#1;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/What-Happens-to-a-Patient.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.7785978">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+          <folding>
+            <element signature="n#style#0;n#figure#0;n#article#0;n#body#0;n#html#0;n#!!top" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
