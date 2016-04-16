@@ -2,50 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ebdec2e0-2040-4bba-b302-74d9e3e912fb" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/1.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/10.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/11.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/12.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/13.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/14.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1460772060_pdfs.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/1460850441_facebook.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/15.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/16.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/17.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/18.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/2.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/3.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/4.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/5.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/6.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/7.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/8.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/pdfs/9.pdf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/fonts/nino.otf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pol1.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/pol2.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/polypragmasia.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/images/polypragmasia_340x255.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Polypragmazy.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Anti-obesity-Pills.html" afterPath="$PROJECT_DIR$/Anti-obesity-Pills.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Are-prices-increasing-or-decreasing.html" afterPath="$PROJECT_DIR$/Are-prices-increasing-or-decreasing.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Checking- who-is-who.html" afterPath="$PROJECT_DIR$/Checking- who-is-who.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Drugstore-Conditions-in-Georgian-Villages.html" afterPath="$PROJECT_DIR$/Drugstore-Conditions-in-Georgian-Villages.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/HIV-AIDS.html" afterPath="$PROJECT_DIR$/HIV-AIDS.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Instalment-payments-are-introduced-to-buy-medicines.html" afterPath="$PROJECT_DIR$/Instalment-payments-are-introduced-to-buy-medicines.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Is-prescription-system.html" afterPath="$PROJECT_DIR$/Is-prescription-system.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Is-there-a-future.html" afterPath="$PROJECT_DIR$/Is-there-a-future.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Language-Barriers.html" afterPath="$PROJECT_DIR$/Language-Barriers.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Psychotropic-Drugs-Without.html" afterPath="$PROJECT_DIR$/Psychotropic-Drugs-Without.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Stop-C.html" afterPath="$PROJECT_DIR$/Stop-C.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Treatment-for-Kidney-Disease.html" afterPath="$PROJECT_DIR$/Treatment-for-Kidney-Disease.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/What-Happens-to-a-Patient.html" afterPath="$PROJECT_DIR$/What-Happens-to-a-Patient.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/autismProblems.html" afterPath="$PROJECT_DIR$/autismProblems.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/links.html" afterPath="$PROJECT_DIR$/links.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/style/style.css" afterPath="$PROJECT_DIR$/style/style.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Medicine.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -69,8 +26,8 @@
       <file leaf-file-name="Polypragmazy.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Polypragmazy.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="-3.2156863">
-              <caret line="782" column="41" selection-start-line="782" selection-start-column="41" selection-end-line="782" selection-end-column="41" />
+            <state vertical-scroll-proportion="-3.235294">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
               <folding>
                 <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
                 <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -101,10 +58,20 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="links.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/links.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.234375">
+              <caret line="234" column="19" selection-start-line="234" selection-start-column="19" selection-end-line="234" selection-end-column="19" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.8035714">
+            <state vertical-scroll-proportion="-15.0">
               <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
               <folding>
                 <element signature="n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -138,7 +105,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/links.html" />
         <option value="$PROJECT_DIR$/Anti-obesity-Pills.html" />
         <option value="$PROJECT_DIR$/Are-prices-increasing-or-decreasing.html" />
         <option value="$PROJECT_DIR$/autismProblems.html" />
@@ -157,6 +123,7 @@
         <option value="$PROJECT_DIR$/style/style.css" />
         <option value="$PROJECT_DIR$/Polypragmazy.html" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/links.html" />
       </list>
     </option>
   </component>
@@ -265,20 +232,6 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="images" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-          </PATH>
-          <PATH>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Medicine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
-              <option name="myItemId" value="Medicine" />
-              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
-            </PATH_ELEMENT>
-            <PATH_ELEMENT>
               <option name="myItemId" value="fonts" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
@@ -360,7 +313,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="23" width="1280" height="709" extended-state="6" />
+    <frame x="0" y="23" width="1280" height="709" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -601,14 +554,6 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/links.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.5708955">
-          <caret line="17" column="56" selection-start-line="17" selection-start-column="56" selection-end-line="17" selection-end-column="56" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/Anti-obesity-Pills.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-9.375">
@@ -751,10 +696,20 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-15.0">
+          <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
+          <folding>
+            <element signature="n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/Polypragmazy.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="-3.2156863">
-          <caret line="782" column="41" selection-start-line="782" selection-start-column="41" selection-end-line="782" selection-end-column="41" />
+        <state vertical-scroll-proportion="-3.235294">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
           <folding>
             <element signature="n#style#0;n#span#0;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
             <element signature="n#style#0;n#span#1;n#div#0;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
@@ -764,13 +719,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
+    <entry file="file://$PROJECT_DIR$/links.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.8035714">
-          <caret line="65" column="58" selection-start-line="65" selection-start-column="58" selection-end-line="65" selection-end-column="58" />
-          <folding>
-            <element signature="n#article#0;n#section#0;n#body#0;n#html#0;n#!!top" expanded="false" />
-          </folding>
+        <state vertical-scroll-proportion="0.234375">
+          <caret line="234" column="19" selection-start-line="234" selection-start-column="19" selection-end-line="234" selection-end-column="19" />
+          <folding />
         </state>
       </provider>
     </entry>
